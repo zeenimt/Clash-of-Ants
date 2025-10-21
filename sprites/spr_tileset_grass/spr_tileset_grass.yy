@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Grass",
+  "%Name":"spr_tileset_grass",
   "bboxMode":0,
   "bbox_bottom":47,
   "bbox_left":16,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"01fad1ec-2e6d-49d7-bd4d-8191e99c73b1","blendMode":0,"displayName":"default","isLocked":false,"name":"01fad1ec-2e6d-49d7-bd4d-8191e99c73b1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Grass",
+  "name":"spr_tileset_grass",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Grass",
+    "%Name":"spr_tileset_grass",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Grass",
+    "name":"spr_tileset_grass",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,7 +71,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"812611aa-32dc-4b30-9dc9-c25957d5cd83","path":"sprites/Grass/Grass.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"812611aa-32dc-4b30-9dc9-c25957d5cd83","path":"sprites/spr_tileset_grass/spr_tileset_grass.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0b92b3d5-a694-4310-b7c3-2fcd116c779b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
